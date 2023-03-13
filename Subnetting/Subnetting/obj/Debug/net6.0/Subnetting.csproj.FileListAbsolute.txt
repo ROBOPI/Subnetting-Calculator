@@ -1,0 +1,15 @@
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\bin\Debug\net6.0\Subnetting.exe
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\bin\Debug\net6.0\Subnetting.deps.json
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\bin\Debug\net6.0\Subnetting.runtimeconfig.json
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\bin\Debug\net6.0\Subnetting.dll
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\bin\Debug\net6.0\Subnetting.pdb
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.csproj.AssemblyReference.cache
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.AssemblyInfoInputs.cache
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.AssemblyInfo.cs
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.csproj.CoreCompileInputs.cache
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.dll
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\refint\Subnetting.dll
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.pdb
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\Subnetting.genruntimeconfig.cache
+C:\Users\LHUMMEL\OneDrive - COMPUTACENTER\Desktop\Schule\BFK-S\Projekt\Subnetting\Subnetting\obj\Debug\net6.0\ref\Subnetting.dll
